@@ -1,6 +1,8 @@
 # ISC3U
 Repository for all ICS3U programming assignments
 # Assignment Completion
+CT = Critical Thinking
+EX = Extra X
 | Chapter | Questions                     | TODO               |
 |---------|-------------------------------|--------------------|
 | 1       |             Review            | :heavy_check_mark: |
