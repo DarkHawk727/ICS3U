@@ -3,7 +3,7 @@ Repository for all ICS3U (Grade 11 Computer Science) programming assignments
 # Assignment Completion
 CT = Critical Thinking  
 EX = Extra X
-| Chapter | Questions                     | TODO               |
+| Chapter | Questions                     | STATUS             |
 |---------|-------------------------------|--------------------|
 | 1 - An Introduction to Computers |             Review            | :heavy_check_mark: |
 | 3 - Introducing Java |           1, 2, 7, CT           | :heavy_check_mark: |
