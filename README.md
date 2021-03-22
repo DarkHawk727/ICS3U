@@ -1,5 +1,5 @@
 # ISC3U
-Repository for all ICS3U programming assignments
+Repository for all ICS3U (Grade 11 Computer Science) programming assignments
 # Assignment Completion
 CT = Critical Thinking  
 EX = Extra X
